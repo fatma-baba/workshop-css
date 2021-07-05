@@ -1,0 +1,22 @@
+nav {
+    display: inline-block;
+    background-color: aqua;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: beige;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
